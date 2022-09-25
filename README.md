@@ -1,37 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@aejepsen 
-tryber
-/
-sd-019-b-mysql-all-for-one
-Private
-Code
-Issues
-Pull requests
-164
-Actions
-Projects
-Wiki
-Security
-Insights
-sd-019-b-mysql-all-for-one
-/
-README.md
- 
 
-Spaces
-
-2
-
-Soft wrap
-1
-​
-2
 # Boas vindas ao repositório do projeto All For One
 3
 ​
